@@ -5,7 +5,7 @@
 
 ## El proyecto
 
-Antes que nada, la idea de este proyecto es que te sirva como base para poder desarrollar el backend en la materia [Algoritmos 3](https://algo3.uqbar-project.org/). Por eso está basado en _Maven_, y el archivo `build.gradle.kts` tiene dependencias a
+está basado en _Maven_, y el archivo `build.gradle.kts` tiene dependencias a
 
 - Spring Boot
 - JUnit
