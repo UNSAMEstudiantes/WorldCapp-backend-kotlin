@@ -2,7 +2,7 @@
 
 [![Build](https://github.com/algo3-unsam/proyecto-base-tp/actions/workflows/build.yml/badge.svg)](https://github.com/algo3-unsam/tp-recetas-2020-gr-xx/actions/workflows/build.yml) ![Coverage](./.github/badges/jacoco.svg)
 
-##¿Quiénes somos?
+## ¿Quiénes somos?
 
 Somos un grupo de cuatro estudiantes de la Universidad Nacional de San Martín, cursando una de las últimas materias de la carrera, e intentando dar lo mejor de nosotros en este proyecto. En concreto, somos:
 
