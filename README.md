@@ -16,7 +16,7 @@ Mary Cairo
 
 ## El proyecto
 
-está basado en _Maven_, y el archivo `build.gradle.kts` tiene dependencias a
+está basado en _Maven_, y el archivo `build.gradle.kts` tiene dependencias a:
 
 - Spring Boot
 - JUnit
